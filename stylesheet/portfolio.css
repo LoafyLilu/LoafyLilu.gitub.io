@@ -319,9 +319,9 @@ footer {
         /* Images contained in the slideshow */
 .Slideshow_Images {
     vertical-align: middle;     /* centers images vertically within slideshow container */
-    height: auto;       /* height of images automatically adjusted based on content */
+    height: 50%;       /* height of images automatically adjusted based on content */
     box-shadow: 0px 5px 10px 12px rgba(74, 198, 196, 0.75);     /* Adds a shadow around the slideshow images */
-    width: 100%;
+    width: auto;
 }
 
         /* Next and Previous buttons */
